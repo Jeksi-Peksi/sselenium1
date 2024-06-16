@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+wait: 3
+username: Dusha1
+password: dd666a4b5a
+title: Just new post
+content: 111
+description: 12345
+mail: test@test.ru
